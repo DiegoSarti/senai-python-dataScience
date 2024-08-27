@@ -15,7 +15,7 @@ Caso algum link não esteja disponível favor contactar-me pelo email jfavmir@gm
 ## Datasets
     - Pokemon:
     - Vendas video games:
-    - Biticion
-    -Vendas: veiculos elétricos
+    - Biticion:https://drive.google.com/file/d/1jxGpeQMHTL0zj0ag-nhytMpdRGgPZxpl/view?usp=sharing
+    -Vendas veiculos elétricos: https://www.kaggle.com/datasets/patricklford/global-ev-sales-2010-2024?authuser=0
 ## Referencias
     
